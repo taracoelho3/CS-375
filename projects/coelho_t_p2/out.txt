@@ -1,0 +1,159 @@
+findContestant <12>
+Contestant <12> is not in the extended heap.
+eliminateWeakest
+No contestant can be eliminated because the heap is empty.
+earnPoints <48> <20>
+Contestant <48> is not in the extended heap.
+losePoints <18> <4>
+Contestant <18> is not in the extended heap.
+showLocation <4>
+Contestant <4> is not in the extended heap:: handler[<4>] = -1.
+insertContestant <1> <4>.
+Contestant <1> inserted with initial score <4>.
+insertContestant <2> <30>.
+Contestant <2> inserted with initial score <30>.
+insertContestant <3> <16>.
+Contestant <3> inserted with initial score <16>.
+insertContestant <4> <12>.
+Contestant <4> inserted with initial score <12>.
+insertContestant <5> <1>.
+Contestant <5> inserted with initial score <1>.
+insertContestant <6> <28>.
+Contestant <6> inserted with initial score <28>.
+insertContestant <7> <27>.
+Contestant <7> inserted with initial score <27>.
+insertContestant <8> <18>.
+Contestant <8> inserted with initial score <18>.
+insertContestant <9> <29>.
+Contestant <9> inserted with initial score <29>.
+insertContestant <10> <2>.
+Contestant <10> inserted with initial score <2>.
+showHandles
+Contestant <1> stored in extended heap location <5>.
+Contestant <2> stored in extended heap location <8>.
+Contestant <3> stored in extended heap location <3>.
+Contestant <4> stored in extended heap location <10>.
+Contestant <5> stored in extended heap location <1>.
+Contestant <6> stored in extended heap location <6>.
+Contestant <7> stored in extended heap location <7>.
+Contestant <8> stored in extended heap location <4>.
+Contestant <9> stored in extended heap location <9>.
+Contestant <10> stored in extended heap location <2>.
+There is no contestant <11> in the extended heap: handle[<11>] = -1.
+There is no contestant <12> in the extended heap: handle[<12>] = -1.
+showContestants
+Contestant <5> in extended heap location <1> with score <1>.
+Contestant <10> in extended heap location <2> with score <2>.
+Contestant <3> in extended heap location <3> with score <16>.
+Contestant <8> in extended heap location <4> with score <18>.
+Contestant <1> in extended heap location <5> with score <4>.
+Contestant <6> in extended heap location <6> with score <28>.
+Contestant <7> in extended heap location <7> with score <27>.
+Contestant <2> in extended heap location <8> with score <30>.
+Contestant <9> in extended heap location <9> with score <29>.
+Contestant <4> in extended heap location <10> with score <12>.
+showLocation <4>
+Contestant <4> is in the extended heap at location <10>.
+showLocation <200>
+Contestant <200> is not in the extended heap:: handler[<200>] = -1.
+showLocation <11>
+Contestant <11> is not in the extended heap:: handler[<11>] = -1.
+showLocation <3>
+Contestant <3> is in the extended heap at location <3>.
+showLocation <10>
+Contestant <10> is in the extended heap at location <2>.
+findContestant <6>
+Contestant <6> is in the extended heap with score <28>.
+findContestant <10>
+Contestant <10> is in the extended heap with score <2>.
+findContestant <11>
+Contestant <11> is not in the extended heap.
+findContestant <100>
+Contestant <100> is not in the extended heap.
+losePoints <9> <29>
+Contestant <9>'s score decreased by <29> to <0>.
+showLocation <9>
+Contestant <9> is in the extended heap at location <1>.
+showContestants
+Contestant <9> in extended heap location <1> with score <0>.
+Contestant <5> in extended heap location <2> with score <1>.
+Contestant <3> in extended heap location <3> with score <16>.
+Contestant <10> in extended heap location <4> with score <2>.
+Contestant <1> in extended heap location <5> with score <4>.
+Contestant <6> in extended heap location <6> with score <28>.
+Contestant <7> in extended heap location <7> with score <27>.
+Contestant <2> in extended heap location <8> with score <30>.
+Contestant <8> in extended heap location <9> with score <18>.
+Contestant <4> in extended heap location <10> with score <12>.
+earnPoints <9> <15>
+Contestant <9>'s score increased by <15> to <15>.
+showLocation <9>
+Contestant <9> is in the extended heap at location <4>.
+showContestants
+Contestant <5> in extended heap location <1> with score <1>.
+Contestant <10> in extended heap location <2> with score <2>.
+Contestant <3> in extended heap location <3> with score <16>.
+Contestant <9> in extended heap location <4> with score <15>.
+Contestant <1> in extended heap location <5> with score <4>.
+Contestant <6> in extended heap location <6> with score <28>.
+Contestant <7> in extended heap location <7> with score <27>.
+Contestant <2> in extended heap location <8> with score <30>.
+Contestant <8> in extended heap location <9> with score <18>.
+Contestant <4> in extended heap location <10> with score <12>.
+earnPoints <9> <20>
+Contestant <9>'s score increased by <20> to <35>.
+showContestants
+Contestant <5> in extended heap location <1> with score <1>.
+Contestant <10> in extended heap location <2> with score <2>.
+Contestant <3> in extended heap location <3> with score <16>.
+Contestant <8> in extended heap location <4> with score <18>.
+Contestant <1> in extended heap location <5> with score <4>.
+Contestant <6> in extended heap location <6> with score <28>.
+Contestant <7> in extended heap location <7> with score <27>.
+Contestant <2> in extended heap location <8> with score <30>.
+Contestant <9> in extended heap location <9> with score <35>.
+Contestant <4> in extended heap location <10> with score <12>.
+eliminateWeakest
+Contestant <5> with current lowest score <1> eliminated.
+eliminateWeakest
+Contestant <10> with current lowest score <2> eliminated.
+eliminateWeakest
+Contestant <1> with current lowest score <4> eliminated.
+showContestants
+Contestant <4> in extended heap location <1> with score <12>.
+Contestant <8> in extended heap location <2> with score <18>.
+Contestant <3> in extended heap location <3> with score <16>.
+Contestant <2> in extended heap location <4> with score <30>.
+Contestant <9> in extended heap location <5> with score <35>.
+Contestant <6> in extended heap location <6> with score <28>.
+Contestant <7> in extended heap location <7> with score <27>.
+showHandles
+There is no contestant <1> in the extended heap: handle[<1>] = -1.
+Contestant <2> stored in extended heap location <4>.
+Contestant <3> stored in extended heap location <3>.
+Contestant <4> stored in extended heap location <1>.
+There is no contestant <5> in the extended heap: handle[<5>] = -1.
+Contestant <6> stored in extended heap location <6>.
+Contestant <7> stored in extended heap location <7>.
+Contestant <8> stored in extended heap location <2>.
+Contestant <9> stored in extended heap location <5>.
+There is no contestant <10> in the extended heap: handle[<10>] = -1.
+There is no contestant <11> in the extended heap: handle[<11>] = -1.
+There is no contestant <12> in the extended heap: handle[<12>] = -1.
+crownWinner
+Contestant <9> wins with score <35>!
+showContestants
+Contestant <9> in extended heap location <1> with score <35>.
+showHandles
+There is no contestant <1> in the extended heap: handle[<1>] = -1.
+There is no contestant <2> in the extended heap: handle[<2>] = -1.
+There is no contestant <3> in the extended heap: handle[<3>] = -1.
+There is no contestant <4> in the extended heap: handle[<4>] = -1.
+There is no contestant <5> in the extended heap: handle[<5>] = -1.
+There is no contestant <6> in the extended heap: handle[<6>] = -1.
+There is no contestant <7> in the extended heap: handle[<7>] = -1.
+There is no contestant <8> in the extended heap: handle[<8>] = -1.
+Contestant <9> stored in extended heap location <1>.
+There is no contestant <10> in the extended heap: handle[<10>] = -1.
+There is no contestant <11> in the extended heap: handle[<11>] = -1.
+There is no contestant <12> in the extended heap: handle[<12>] = -1.
